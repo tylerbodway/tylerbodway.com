@@ -67,7 +67,7 @@ div.info {
 	clear: both;
 }
 
-p {
+p, a {
 	font-family: 'Duru Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 100;
