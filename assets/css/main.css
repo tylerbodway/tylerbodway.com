@@ -74,6 +74,11 @@ p, a {
 	letter-spacing: 1px;
 	display: block;
 	color: #aeaeae;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 p.sub {
